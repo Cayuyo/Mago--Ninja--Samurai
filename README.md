@@ -10,7 +10,7 @@ Repositorio publico para el bootcamp de Coding Dojo.
 
 <p>Estaremos revisando nuestra clase Humano y a crear tres nuevas clases que heredan de ella.​ Crea una clase para un Ninja, un Mago y un Samurai y completa las siguientes tareas para practicar los conceptos de POO de herencia.​ Para esta tarea, tendrás que modificar tu clase Humano.​
 
-Ejemplo de clase Humana como referencia: ​​​<p>
+Ejemplo de clase Humana como referencia: ​​​</p>
 
 
 ```cs
